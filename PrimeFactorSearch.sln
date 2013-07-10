@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorSearch", "PrimeFactorSearch\PrimeFactorSearch.csproj", "{D9396F69-6F77-4C30-8068-53FAE61F302C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorSearchTests", "PrimeFactorSearchTests\PrimeFactorSearchTests.csproj", "{6D3BD8EE-C458-4E01-A6C3-E46426EB9890}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3E22FDB1-7DF3-4BF7-A81A-46C10EAE0146}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9396F69-6F77-4C30-8068-53FAE61F302C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9396F69-6F77-4C30-8068-53FAE61F302C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9396F69-6F77-4C30-8068-53FAE61F302C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9396F69-6F77-4C30-8068-53FAE61F302C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D3BD8EE-C458-4E01-A6C3-E46426EB9890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3BD8EE-C458-4E01-A6C3-E46426EB9890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3BD8EE-C458-4E01-A6C3-E46426EB9890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3BD8EE-C458-4E01-A6C3-E46426EB9890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
